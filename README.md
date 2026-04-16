@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Jose-Rodrigo-Carrillo/Jose-Rodrigo-Carrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Jose
 
-Here are some ideas to get you started:
+Data Analyst / Aspiring Data Scientist with strong focus on:
+- Business analytics
+- Payments & financial data
+- Machine learning applied to real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech stack
+
+- Python (pandas, numpy, scikit-learn)
+- SQL
+- Power BI
+- Git & GitHub
+
+
+### 📊 Featured projects
+- Geographic concentration analysis of transactions
+- Approval rate prediction (ML)
+- End-to-end analytics pipeline with dashboard
+
+### 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/rodrigocarrillosoult
+- Email: joserodrigocarrillosoult@gmail.com
